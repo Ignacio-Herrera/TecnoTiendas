@@ -1,6 +1,6 @@
 TecnoTiendas
 ------------
 
-Desarrollado por
-Ing. Jhony Andres Herrera
-Ing. Jose Ignacio Herrera
+- Desarrollado por
+- Ing. Jhony Andres Herrera
+- Ing. Jose Ignacio Herrera
